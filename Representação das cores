@@ -1,0 +1,36 @@
+Representação das cores
+
+abcdef...
+binário: 01
+numérico: 0123456789
+hexadecimal: 0123456789ABCDEF...
+
+RGB = Red Green Blue
+
+#__ __ __ __ __ __ (6 posições as 2 primeiras são red, 2 do meio green e ultimas blue)
+
+0: ausência de cor (preto)
+F: máximo de cor (branco)
+
+#000000 (preto)
+#FFFFFF (branco)
+#FF0000 (representaçção do vermelho, onde o vermelho é F e o restante não existe)
+
+Outras formas de respresentar as cores além de:
+red
+blue
+yellow
+
+existe o dicionário do RGB: 
+RGB 0, 1, 2, 3 ....255
+
+neste caso:
+0: é ausência
+255: é o máximo
+
+a representação no CSS é:
+ao invés de usar a tralha (#)
+usa-se:
+
+rgb(255, 255, 255) branco
+rgb(0, 0, 255) azul
