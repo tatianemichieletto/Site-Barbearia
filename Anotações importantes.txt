@@ -1,1 +1,2 @@
 unicode table: linguagem universal para representar os símbolos
+mobile input types: tipos de input para smartphone
