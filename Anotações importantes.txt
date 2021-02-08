@@ -1,3 +1,0 @@
-unicode table: linguagem universal para representar os símbolos
-mobile input types: tipos de input para smartphone
-Google fonts: tipos fontes preparadas para web disponíveis para usar
